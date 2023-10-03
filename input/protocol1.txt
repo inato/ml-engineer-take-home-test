@@ -1,0 +1,42 @@
+A Randomized, Double-Blind, Placebo-Controlled Clinical Trial to Evaluate the Efficacy and Safety of DrugX in Patients with Moderate to Severe Hypertension
+
+1. Objectives
+1.1 Primary Objective
+To assess the efficacy of DrugX in reducing systolic blood pressure (SBP) in patients with moderate to severe hypertension after 12 weeks of treatment.
+1.2 Secondary Objectives
+To evaluate the safety and tolerability of DrugX.
+To assess the impact of DrugX on diastolic blood pressure (DBP).
+To evaluate the effect of DrugX on quality of life.
+2. Study Design
+A multi-center, randomized, double-blind, placebo-controlled, parallel-group study.
+3. Study Population
+Adult males and females, aged 40-75 years, diagnosed with moderate to severe hypertension.
+4. Inclusion Criteria
+Aged 40-75 years.
+Diagnosed with moderate to severe hypertension (SBP ≥ 160 mmHg or DBP ≥ 100 mmHg).
+Stable medical condition.
+5. Exclusion Criteria
+Pregnant or breastfeeding women.
+Patients with secondary hypertension.
+History of severe cardiovascular, renal, or hepatic disease.
+6. Randomization and Blinding
+Eligible participants will be randomized 1:1 to receive either DrugX or placebo.
+Investigators, participants, and study staff will be blinded to treatment allocation.
+7. Intervention
+DrugX group: DrugX 10mg orally once daily for 12 weeks.
+Placebo group: Matching placebo orally once daily for 12 weeks.
+8. Study Assessments
+8.1 Efficacy Assessments
+Change in SBP and DBP from baseline to Week 12.
+Quality of life assessed using the Hypertension Quality of Life Questionnaire at baseline and Week 12.
+8.2 Safety Assessments
+Incidence of adverse events and serious adverse events.
+Laboratory assessments including complete blood count, liver function tests, and renal function tests.
+9. Statistical Analysis
+The primary efficacy endpoint will be analyzed using an Analysis of Covariance (ANCOVA) with treatment group as a factor and baseline SBP as a covariate.
+Safety data will be summarized using descriptive statistics.
+10. Ethics and Regulatory Compliance
+The trial will be conducted in compliance with the Declaration of Helsinki, Good Clinical Practice (GCP) guidelines, and local regulatory requirements.
+The protocol, informed consent form, and any amendments will be submitted to the Institutional Review Board (IRB) for approval.
+11. Time Frame
+The total duration of the study will be approximately 18 months, including 6 months for patient recruitment, 12 weeks for treatment, and 3 months for data analysis and reporting.

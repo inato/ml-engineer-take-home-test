@@ -1,0 +1,38 @@
+A Phase III, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of InhalerX in Patients with Moderate to Severe Chronic Obstructive Pulmonary Disease (COPD)
+
+1. Objectives
+1.1 Primary Objective
+To assess the efficacy of InhalerX in improving lung function (measured by FEV1) after 12 weeks of treatment in COPD patients.
+1.2 Secondary Objectives
+To evaluate the impact of InhalerX on patients' quality of life using the COPD Assessment Test (CAT).
+To assess the safety and tolerability of InhalerX.
+2. Study Design
+A multi-center, randomized, double-blind, placebo-controlled, parallel-group study.
+3. Study Population
+Adult males and females, aged 40-80 years, diagnosed with moderate to severe COPD.
+4. Inclusion Criteria
+Confirmed diagnosis of COPD with a post-bronchodilator FEV1/FVC <0.70.
+Moderate to severe airflow limitation (post-bronchodilator FEV1 <80% predicted).
+5. Exclusion Criteria
+Known hypersensitivity to any component of InhalerX.
+A history of asthma or other respiratory disorders.
+6. Randomization and Blinding
+Participants will be randomized 1:1 to receive either InhalerX or placebo.
+Investigators, participants, and study personnel will be blinded to treatment assignment.
+7. Intervention
+InhalerX group: InhalerX, two puffs twice daily for 12 weeks.
+Placebo group: Matching placebo, two puffs twice daily for 12 weeks.
+8. Study Assessments
+8.1 Efficacy Assessments
+Change in pre-dose FEV1 from baseline to Week 12.
+Change in CAT score from baseline to Week 12.
+8.2 Safety Assessments
+Incidence of adverse events (AEs) and serious adverse events (SAEs).
+9. Statistical Analysis
+Primary and secondary efficacy endpoints will be analyzed using a Mixed Model for Repeated Measures (MMRM).
+Safety data will be summarized descriptively.
+10. Ethics and Regulatory Compliance
+The trial will be conducted according to the Declaration of Helsinki, ICH-GCP guidelines, and local regulatory requirements.
+Approval will be obtained from relevant Institutional Review Boards (IRBs).
+11. Time Frame
+Total duration of 18 months: 6 months for recruitment, 3 months of treatment, and 9 months for follow-up and data analysis.

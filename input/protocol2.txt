@@ -1,0 +1,40 @@
+A Randomized, Double-Blind, Placebo-Controlled Phase III Trial to Evaluate the Efficacy and Safety of Topical CreamZ in Patients with Mild to Moderate Atopic Dermatitis
+
+1. Objectives
+1.1 Primary Objective
+To assess the efficacy of CreamZ in reducing the severity and symptoms of atopic dermatitis after 8 weeks of treatment.
+1.2 Secondary Objectives
+To evaluate the safety and tolerability of CreamZ.
+To assess the impact of CreamZ on the quality of life.
+To explore the long-term efficacy and safety of CreamZ over 24 weeks.
+2. Study Design
+A multi-center, randomized, double-blind, placebo-controlled, parallel-group study.
+3. Study Population
+Adult males and females, aged 18-65 years, with mild to moderate atopic dermatitis.
+4. Inclusion Criteria
+Diagnosed with mild to moderate atopic dermatitis.
+Eczema Area and Severity Index (EASI) score between 10 and 20 at baseline.
+5. Exclusion Criteria
+Known hypersensitivity to any component of CreamZ.
+Current use of other topical or systemic treatments for atopic dermatitis.
+6. Randomization and Blinding
+Participants will be randomized 1:1 to receive either CreamZ or placebo.
+Investigators, participants, and study personnel will be blinded to treatment assignment.
+7. Intervention
+CreamZ group: Apply CreamZ topically twice daily for 8 weeks.
+Placebo group: Apply matching placebo cream topically twice daily for 8 weeks.
+8. Study Assessments
+8.1 Efficacy Assessments
+Change in EASI score from baseline to Week 8.
+Patient-Oriented Eczema Measure (POEM) score at baseline and Week 8.
+8.2 Safety Assessments
+Incidence of adverse events (AEs) and serious adverse events (SAEs).
+Local tolerability assessments.
+9. Statistical Analysis
+The primary efficacy endpoint will be analyzed using ANCOVA, with baseline EASI score as a covariate.
+Safety data will be analyzed using descriptive statistics.
+10. Ethics and Regulatory Compliance
+The trial will be conducted according to the Declaration of Helsinki, Good Clinical Practice guidelines, and local regulatory requirements.
+All documents will be submitted to the Institutional Review Board (IRB) for approval.
+11. Time Frame
+Total duration of 16 months: 6 months for recruitment, 8 weeks of treatment, and 9 months for follow-up and data analysis.

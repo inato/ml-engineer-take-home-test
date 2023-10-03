@@ -1,0 +1,42 @@
+A Phase II, Randomized, Double-Blind, Placebo-Controlled Trial to Evaluate the Efficacy and Safety of DrugY in Patients with Advanced Non-Small Cell Lung Cancer (NSCLC)
+
+1. Objectives
+1.1 Primary Objective
+To assess the efficacy of DrugY in improving overall survival (OS) in patients with advanced NSCLC.
+1.2 Secondary Objectives
+To evaluate the progression-free survival (PFS) in patients treated with DrugY.
+To assess the safety and tolerability of DrugY in this patient population.
+To examine the quality of life in patients receiving DrugY.
+2. Study Design
+A multi-center, randomized, double-blind, placebo-controlled, parallel-group study.
+3. Study Population
+Adult males and females, aged 18-75 years, diagnosed with stage IIIb/IV NSCLC.
+4. Inclusion Criteria
+Confirmed diagnosis of stage IIIb/IV NSCLC.
+ECOG performance status of 0-1.
+Adequate organ function.
+5. Exclusion Criteria
+Previous treatment with similar class of drugs as DrugY in the past 6 months.
+Presence of symptomatic central nervous system metastases.
+Any severe and/or uncontrolled medical conditions.
+6. Randomization and Blinding
+Eligible participants will be randomized 1:1 to receive either DrugY or placebo.
+Participants, investigators, and trial staff will be blinded to treatment assignment.
+7. Intervention
+DrugY group: DrugY 100mg orally once daily until disease progression.
+Placebo group: Matching placebo orally once daily until disease progression.
+8. Study Assessments
+8.1 Efficacy Assessments
+OS and PFS will be evaluated through periodic imaging.
+Quality of life assessed using the EORTC QLQ-C30 at baseline and at regular intervals.
+8.2 Safety Assessments
+Adverse events will be monitored and categorized according to CTCAE v5.0.
+Regular monitoring of laboratory parameters.
+9. Statistical Analysis
+The primary efficacy endpoint (OS) will be analyzed using the Kaplan-Meier method and compared using the log-rank test.
+Safety data will be summarized descriptively.
+10. Ethics and Regulatory Compliance
+The study will adhere to the Declaration of Helsinki, GCP guidelines, and local regulatory requirements.
+Approval will be sought from the relevant IRBs.
+11. Time Frame
+Estimated study duration is 24 months, including 12 months for recruitment, 6 months for follow-up, and 6 months for data analysis and reporting.
