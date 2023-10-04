@@ -24,7 +24,7 @@ To ensure success and demonstrate your abilities, please adhere to the following
 - Pharmaceutical labs often write lengthy and complex clinical trial documents (protocols). At the same time, principal investigators (PIs) have written profiles detailing their capabilities and experiences (resumes). The challenge is, matching principal investigators to trials manually is time-consuming and might miss out on potential matches.
 
 *Goal:*
-Based on the input data, develop an algorithm that, provided with a trial protocol which can suggest the top 2 principal investigators based on the similarity of the provided textual documents.
+Based on the input data, develop an algorithm that, provided with a trial protocol, can suggest the top 2 principal investigators based on the similarity of the provided textual documents.
 
 
 ## Input data details
