@@ -13,11 +13,9 @@ Note that the test should take no more than 3 hours to complete.
 To ensure success and demonstrate your abilities, please adhere to the following guidelines:
 
 - Start with a simple approach to have a baseline of results for comparison
-- Share your code using a Jupyter notebook 
-- Your code should be standalone
-- The last state of your code should be production ready
-- Prefer making your code production ready and your models evaluation insightful than multiplying the iteration to improve your model performance
-
+- Share your code using a Jupyter notebook
+- The last state of your code should be clean and ready to be reviewed by peers in a real-world situation
+- Prefer making your code clean and your models evaluation insightful than multiplying the iteration to improve your model performance
 
 ## Brief 
 
